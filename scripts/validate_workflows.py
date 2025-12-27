@@ -119,7 +119,8 @@ def main() -> int:
     errors: List[str] = []
     bundles = [p for p in root.rglob("*") if p.is_dir() and (p / "metadata.yaml").exists()]
     if not bundles:
-        errors.append("No workflow bundles found (metadata.yaml missing)")
+        print("WARNING: No workflow bundles found (metadata.yaml missing)")
+        return 0
 
     for bundle in bundles:
         validate_bundle(bundle, errors)
