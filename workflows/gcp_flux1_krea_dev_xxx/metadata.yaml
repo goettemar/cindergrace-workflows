@@ -1,0 +1,19 @@
+name: gcp_flux1_krea_dev_xxx
+version: 1.0.0
+author: "Marco G\xF6tte"
+description: das ist ein test
+tags:
+- '12345'
+min_comfyui_version: keine
+compatible_cindergrace_versions:
+- keine
+required_models:
+- "nooookmokmpok\xE4\xFCpk/km\xF6okmkm"
+recommended_vram_gb:
+- 16
+contains_non_manager_nodes: false
+non_manager_nodes_info: ''
+models_file: gcp_flux1_krea_dev_xxx.models
+hashes:
+  api_json: fbe94d71c25415e045352107a55c08ba9dff8ed69c0f708dfb3d7d46dc5ebd0c
+  original_json: 8a55f792514d6bb25088f6503512ea75f828a1fecbff199a209449c0f723f015
