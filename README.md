@@ -1,4 +1,6 @@
 # Cindergrace Workflows
+
+> Hinweis: Dieses Repository ist ein Hobby-/Experimentierprojekt. Es handelt sich nicht um ein gewerbliches Angebot (keine Auftragsannahme, keine Garantien, kein Supportversprechen).
 Curated workflow bundles (API export + original + metadata). Custom nodes/models are installed manually.
 
 ## License / Lizenz
